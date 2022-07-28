@@ -1,0 +1,28 @@
+body {
+    font-family: 'PT Serif', serif;
+
+}
+
+
+.bg-yellow {
+    background-color:#FFC017
+
+}
+
+
+.border-bottom-dark {
+    border-bottom: 1px solid #222;
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+.profile-pictures {
+    width: 25px;
+    height: 25px;
+}
+
+.top-border {
+    border-top: 1px solid #222;
+}
